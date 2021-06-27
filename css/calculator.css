@@ -1,0 +1,29 @@
+body{
+    text-align: center;
+    font-weight: bold;
+}
+button{
+  border: none;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: rgb(241, 6, 18);
+  font-weight: bold;
+  width: 80px;
+  margin-bottom: 5px;
+  border-radius: 5px;
+}
+.btns{
+    align-items: center;
+}
+p{
+    color: rgb(3, 70, 3);
+}
+footer{
+    color: forestgreen;
+}
+button{
+    background-color: darkgreen;
+}
+#num1-el,#num2-el{
+    text-decoration : underline;
+}
